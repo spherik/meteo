@@ -8,7 +8,7 @@ For this project I've used the following components:
 * 1 x Arduino Diecimila
 * 1 x DHT11 humidity and temperature sensor
 * 1 x Photocell Light Sensor
-* 1 x YL-96 Soil Moisture Sensor
+* 1 x YL-96 Soil Moisture Sensor (you can download FC-28 Fritzing parts from here https://code.google.com/p/fritzing/issues/detail?id=2753)
 * 2 x 1K Ohm resistors
 
 You can see the circuit in the following image, as well as in the Fritzing file in the repository.
